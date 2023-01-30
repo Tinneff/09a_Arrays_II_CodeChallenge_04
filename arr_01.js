@@ -109,3 +109,4 @@ function getElement(tag,op) {
 function output(outputData) {
     console.log(outputData);
 }
+
